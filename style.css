@@ -1,5 +1,5 @@
 html {
-  background-image: url("darkAndLightPlanks.svg"); 
+  background: url("darkAndLightPlanks.svg"); 
   image-rendering: pixelated;
   background-position: unset;
   background-size: 60%;
